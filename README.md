@@ -12,5 +12,4 @@ There are two folders:
 
 This project is made for Data Analysis and Machine Learning implementation. 
 
-<br>This project has been made by the collaborative efforts of Ayush Raj Tarway (BroadParadox) and Mayank Agrawal (Mayankag020) in Summer 2022 as a part of their machine learning exploration.
 
